@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main(){
-  fmt.println("Vanakam")
-  }
+func main() {
+	fmt.Println("Vanakam da mapla")
+}
